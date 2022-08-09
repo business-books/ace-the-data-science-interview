@@ -3,7 +3,7 @@ Ace the Data Science Interview: 201 Real Interview Questions Asked By FAANG, Tec
 
 ## Ace the data science interview PDF book
 
-<a href="">Ace the data science interview PDF</a> book is very good, especially for product sense questions. You can't prepare for these questions just by taking classes in your school. But after reading the chapter, I think I learned so much.
+<a href="https://qualified.one/books/ace-the-data-science-interview/">Ace the data science interview PDF</a> book is very good, especially for product sense questions. You can't prepare for these questions just by taking classes in your school. But after reading the chapter, I think I learned so much.
 
 Here's my review from the perspective of the candidate. Ace the Data Scientist Interview is proving to be one of the best resources out there for preparing for any type of interview. I've come across it multiple times "in the wild", and recommend it to anyone who wants to prepare for any type of interview! This review is from the perspective of someone who is applying for jobs, so I'll focus mainly on what the book can do for candidates. First off, the book covers the core topics that any data scientist should know, including R, Python, SQL, statistics, machine learning, etc. But it also goes into great detail about things like resume writing, behavioral interviews, and other aspects of the job application process. Overall, I think this book is a must read for anyone who wants to get hired as a data scientist.
 
